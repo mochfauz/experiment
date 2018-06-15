@@ -1,8 +1,7 @@
-![Folm Logo](https://github.com/folm/folm/raw/master/src/qt/res/images/splash.png)
+
 
 # "NEW GENERATION CRYPTOCURRENCY & PAYMENT SOLUTION"
 
-<a href="https://discord.gg/uDmpSHx"><img src="https://discordapp.com/api/guilds/398369914760593419/embed.png" alt="Discord server" /></a>
 
 
 | [Website](https://folm.io) |[Block Explorer](https://explorer.folm.io/) |
